@@ -6,3 +6,5 @@ Implementation of Gaussian Naïve Bayes classifier.
 
 Support Vector Machine with a Gaussian radial basis function. Using a regularization factor
 C = 1 and optimizing the gamma parameter with cross-validation on the training set.
+
+Authors: Mariya Hristova nad Yana Frandjelska 
